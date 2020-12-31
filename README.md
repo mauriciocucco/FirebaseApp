@@ -1,8 +1,8 @@
 # FirebaseApp
 
-Éste proyecto corresponde a la quinta app que desarollé a través del curso de `Angular: de cero a experto` de Fernando Herrera en Udemy. Es una página con una sección de registro y login, con sus validaciones pertinentes, que usa el servicio de autenticación de **Firebase**. Una vez que el usuario se loguea, ingresa al _home_ con la posibilidad de hacer un logout.
+Éste proyecto corresponde a la quinta app que desarrollé a través del curso de `Angular: de cero a experto` de Fernando Herrera en Udemy. Es una página con una sección de registro y otra de login (con sus validaciones pertinentes) que usa el servicio de autenticación de **Firebase**. Una vez que el usuario se loguea, ingresa al _home_ con la posibilidad de hacer un logout.
 
-Se encuentra hecho con **Bootstrap**(versión 5.0.0-beta1), con modales de **SweetAlert2** y **Angular CLI** (versión 11.0.4.). Para su instalación:
+Se encuentra hecho con **Bootstrap** (versión 5.0.0-beta1), con modales de **SweetAlert2** y **Angular CLI** (versión 11.0.4.). Para su instalación:
 
 ```bash
 npm install -g @angular/cli
